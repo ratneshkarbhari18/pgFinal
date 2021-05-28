@@ -100,3 +100,26 @@
 
        </script>
     </header>
+    <script>
+        
+        var principalAmounts = [2500000,2000000,3000000,3500000,1500000,4000000,1000000];
+        principalAmounts.sort();
+        var rateOfInterests = [6.75,6.65,7,7.05,8,7.5,7.15];
+        rateOfInterests.sort();
+        var numberOfYears = [20,15,10,5,25,20,18];  
+        numberOfYears.sort();
+
+
+        function getEmiAmount(e,principal,roi,noy) { 
+            e.preventDefault();
+
+            // Calculating SimpleInterest
+            let simpleInterest = (parseFloat(principal)*parseInt(noy)*parseFloat(roi))/100;
+            let amount = parseFloat(principal)+parseFloat(simpleInterest);
+            let emi = parseFloat(amount)/12;
+
+            return emiAmount = {emiPayable:emi, amountPayable:amount};
+
+        }
+
+    </script>
