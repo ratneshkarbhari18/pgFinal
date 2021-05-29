@@ -116,7 +116,7 @@
             // Calculating SimpleInterest
             let simpleInterest = (parseFloat(principal)*parseInt(noy)*parseFloat(roi))/100;
             let amount = parseFloat(principal)+parseFloat(simpleInterest);
-            let emi = parseFloat(amount)/12;
+            let emi = parseFloat(amount)/(parseInt(noy)*12);
 
             return emiAmount = {emiPayable:emi, amountPayable:amount};
 
