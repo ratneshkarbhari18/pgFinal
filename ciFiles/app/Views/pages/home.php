@@ -26,8 +26,8 @@
                     </div>
 
                     <div id="address" data-aos-duration="1000" data-aos="fade-left" class="text-center">
-                        <h4 style="color: #393185;">Head Office: </h4>
-                        <p>Shop No. 1 & 2, Sai Aura Building,  Plot Number 33, <br>Sector 17, Near Sadguru Sweets, Ulwe, Navi Mumbai, Maharashtra 410206 </p>
+                        <h4 style="color: #393185; font-weight: bold;">Head Office: </h4>
+                        <p>Near Shiv petrol pump, <br> Opposite to Maruti Suzuki showroom, <br> Ambernath-Badlapur, highway, Katrap, <br> Badlapur, Maharashtra 421503</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-12 col-sm-12">
@@ -76,10 +76,10 @@
                 <div class="col-lg-4 col-md-12 col-sm-12 text-center">
                     <div class="project-grid-box" data-aos-duration="1000" data-aos="fade-right" pid="1" style="background-image: url('<?php echo site_url("assets/images/home_p1.jpg") ?>'); background-size: cover;">
                         <div id="p-meta-1" class="project-grid-meta text-center">
-                            <h4 class="project-grid-title">Precious Harmony</h4>
+                            <h4 class="project-grid-title">Precious Emerald</h4>
                             <h6 class="project-grid-title">1 BHK</h6>
                         </div>
-                        <a href="<?php echo site_url("precious-harmony"); ?>" id="vp-button-1" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute; top: 45%; left: 25%; padding: 1%;">
+                        <a href="<?php echo site_url("precious-emerald"); ?>" id="vp-button-1" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute; top: 45%; left: 25%; padding: 1%;">
                         VIEW PROPERTIES
                         </a>
                     </div>
@@ -196,14 +196,14 @@
                         </div>
                     </div>
                 </a>
-                <a href="https://www.freepressjournal.in/mumbai/mumbai-housing-sales-fall-as-stamp-duty-restored">
+                <!-- <a href="https://www.freepressjournal.in/mumbai/mumbai-housing-sales-fall-as-stamp-duty-restored">
                     <div class="ia-slide container-fluid text-center" style="border: 1px solid darkgray; background-image: url('<?php echo site_url("assets/images/IndustryAffair4.jpg"); ?>'); background-size: cover; height: 363.33px; margin: 0 auto;">
                         <div class="township-meta">
                             <h4 class="text-light" style="font-weight: bold;">Housing Sales fall as stamp duty restored</h4>
                             <p class="text-light" >Read More ></p>
                         </div>
                     </div>
-                </a>
+                </a> -->
             </div>
         </div>
     </section>
@@ -264,8 +264,8 @@
             <img src="<?php echo site_url("assets/images/maploc.png"); ?>" alt="" class="w-100" style="margin-bottom: 1em;">
             <img src="<?php echo site_url("assets/images/map_nfacts_text.jpg"); ?>" alt="" class="w-50" style="margin-bottom: 1em;">
             <div id="address" class="text-center w-100" style="margin-bottom: 2em;">
-                <h4 style="color: #393185;">Head Office: </h4>
-                <p>Shop No. 1 &amp; 2, Sai Aura Building,  Plot Number 33, <br>Sector 17, Near Sadguru Sweets, Ulwe, Navi Mumbai, Maharashtra 410206 </p>
+                <h4 style="color: #393185; font-weight: bold;">Head Office: </h4>
+                <p>Near Shiv petrol pump, <br> Opposite to Maruti Suzuki showroom, <br> Ambernath-Badlapur, highway, Katrap, <br> Badlapur, Maharashtra 421503</p>
             </div>
         </div>
     </section>
@@ -419,14 +419,14 @@
                         </div>
                     </div>
                 </a>
-                <a href="https://www.freepressjournal.in/mumbai/mumbai-housing-sales-fall-as-stamp-duty-restored">
+                <!-- <a href="https://www.freepressjournal.in/mumbai/mumbai-housing-sales-fall-as-stamp-duty-restored">
                     <div class="ia-slide container-fluid text-center" style="border: 1px solid darkgray; background-image: url('<?php echo site_url("assets/images/IndustryAffair4.jpg"); ?>'); background-size: cover; height: 363.33px; margin: 0 auto;">
                         <div class="township-meta">
                             <h4 class="text-light" style="font-weight: bold;">Housing Sales fall as stamp duty restored</h4>
                             <p class="text-light" >Read More ></p>
                         </div>
                     </div>
-                </a>
+                </a> -->
             </div>
         </div>
     </section>

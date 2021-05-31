@@ -13,7 +13,7 @@
                     <div class="swiper-slidex container-fluid" style="border: 3px solid #008DD2; border-radius: 10px;">
                         <div class="row">
                             <div class="img-container col-lg-7 col-md-12 col-sm-12" style="padding:0; overflow: hidden;">
-                                <img src="<?php echo site_url("assets/images/ph_hero.jpeg"); ?>" class="project-image" style="width: 180%;">
+                                <img src="<?php echo site_url("assets/images/precious_heritage.jpg"); ?>" class="project-image" style="width: 180%;">
                             </div>
                             <div class="img-container col-lg-5 col-md-12 col-sm-12" style="padding:0; background-color: white;">
                                 <p class="internal-external-amenities-title text-center" style="font-size: 25px; margin-top: 2em; font-weight: 400;">Internal and External Amenities</p>
@@ -113,14 +113,14 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15074.20286701575!2d73.2257114!3d19.1711341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2b78d7f44c56769e!2sprapanch%20studio!5e0!3m2!1sen!2sin!4v1619096473121!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>                                
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15076.712417639435!2d73.23748887613526!3d19.143679579218787!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x840d41eabc21131a!2sPRECIOUS%20HERITAGE!5e0!3m2!1sen!2sin!4v1622466774599!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>                                
                             </div>                    
                         </div>
                     </div>
 
                     <div id="address">
                         <h4 style="color: #393185;">Head Office: </h4>
-                        <p>Shop No. 1 & 2, Sai Aura Building,  Plot Number 33, <br>Sector 17, Near Sadguru Sweets, Ulwe, Navi Mumbai, Maharashtra 410206 </p>
+                        <p>Near Shiv petrol pump, <br> Opposite to Maruti Suzuki showroom, <br> Ambernath-Badlapur, highway, Katrap, <br> Badlapur, Maharashtra 421503</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-12 col-sm-12">

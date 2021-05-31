@@ -114,14 +114,14 @@
                     <div class="container-fluid">
                         <div class="row">
                             <div class="col-lg-12">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15074.20286701575!2d73.2257114!3d19.1711341!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2b78d7f44c56769e!2sprapanch%20studio!5e0!3m2!1sen!2sin!4v1619096473121!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>                                
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15067.218587374324!2d73.1706987184326!3d19.24734380766628!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x72a5ac4887aba7b5!2sVishwajeet%20Precious!5e0!3m2!1sen!2sin!4v1622466962322!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>                                
                             </div>                    
                         </div>
                     </div>
 
                     <div id="address">
                         <h4 style="color: #393185;">Head Office: </h4>
-                        <p>Shop No. 1 & 2, Sai Aura Building,  Plot Number 33, <br>Sector 17, Near Sadguru Sweets, Ulwe, Navi Mumbai, Maharashtra 410206 </p>
+                        <p>Near Shiv petrol pump, <br> Opposite to Maruti Suzuki showroom, <br> Ambernath-Badlapur, highway, Katrap, <br> Badlapur, Maharashtra 421503</p>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-12 col-sm-12">

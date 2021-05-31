@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="<?php echo site_url("assets/css/site.min.css"); ?>">
 </head>
 <body>
+    <a href="https://api.whatsapp.com/send/?phone=918013631363&text&app_absent=0" target="_blank"><img style="position: fixed;
+    right: 2em;
+    width: 3em;
+    bottom: 6em; z-index: 900000;" src="<?php  echo site_url("assets/images/whatsapp.png"); ?>" ></a>
     <script src="<?php echo site_url("assets/js/jquery.min.js"); ?>"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <header id="desktop" class="d-none d-lg-block d-xl-block">

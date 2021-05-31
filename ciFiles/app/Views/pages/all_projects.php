@@ -81,7 +81,7 @@
                     </div>
                     <div class="meta-container container-fluid">
                         <h3 class="project-title">Vishwajeet Precious</h3>
-                        <p class="project-text">Pinkcity Ambernath</p>
+                        <p class="project-text">Varap, Kalyan</p>
                     </div>
                     </a>
                 </div>
