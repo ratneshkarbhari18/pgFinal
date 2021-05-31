@@ -74,7 +74,7 @@
         <div class="container text-center">
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12 text-center">
-                    <div class="project-grid-box" data-aos-duration="1000" data-aos="fade-right" pid="1" style="background-image: url('<?php echo site_url("assets/images/home_p1.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box" data-aos-duration="1000" data-aos="fade-right" pid="1" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_emerald.jpg") ?>'); background-size: cover;">
                         <div id="p-meta-1" class="project-grid-meta text-center">
                             <h4 class="project-grid-title">Precious Emerald</h4>
                             <h6 class="project-grid-title">1 BHK</h6>
@@ -85,18 +85,18 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 text-center">
-                    <div class="project-grid-box" data-aos-duration="1000" data-aos="fade-up" pid="2" style="background-image: url('<?php echo site_url("assets/images/home_p2.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box" data-aos-duration="1000" data-aos="fade-up" pid="2" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_harmony.jpg") ?>'); background-size: cover;">
                         <div id="p-meta-2" class="project-grid-meta text-center">
-                            <h4 class="project-grid-title">Precious Emerald</h4>
+                            <h4 class="project-grid-title">Precious Harmony</h4>
                             <h6 class="project-grid-title">1 BHK</h6>
                         </div>
-                        <a href="<?php echo site_url("precious-emerald"); ?>" id="vp-button-2" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute;  top: 45%; left: 25%; padding: 1%;">
+                        <a href="<?php echo site_url("precious-harmony"); ?>" id="vp-button-2" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute;  top: 45%; left: 25%; padding: 1%;">
                         VIEW PROPERTIES
                         </a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12 col-sm-12 text-center">
-                    <div class="project-grid-box" pid="3" data-aos-duration="1000" data-aos="fade-left" style="background-image: url('<?php echo site_url("assets/images/home_p3.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box" pid="3" data-aos-duration="1000" data-aos="fade-left" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_heritage.jpg") ?>'); background-size: cover;">
                         <div id="p-meta-3" class="project-grid-meta text-center">
                             <h4 class="project-grid-title">Precious Heritage</h4>
                             <h6 class="project-grid-title">1 BHK</h6>
@@ -294,7 +294,7 @@
         <div class="container">
             <div class="owl-carousel touch-slider owl-theme">
                 <a href="<?php echo site_url("precious-harmony"); ?>">
-                    <div class="project-grid-box-touch" pid="1" style="background-image: url('<?php echo site_url("assets/images/home_p1.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box-touch" pid="1" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_harmony.jpg"); ?>'); background-size: cover;">
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Harmony</h4>
                         </div>
@@ -304,7 +304,7 @@
                     </div>
                 </a>
                 <a href="<?php echo site_url("precious-emerald"); ?>">
-                    <div class="project-grid-box-touch" pid="2" style="background-image: url('<?php echo site_url("assets/images/home_p2.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box-touch" pid="2" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_emerald.jpg"); ?>'); background-size: cover;">
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Emerald</h4>
                         </div>
@@ -314,7 +314,7 @@
                     </div>
                 </a>
                 <a href="<?php echo site_url("precious-heritage"); ?>">
-                    <div class="project-grid-box-touch" pid="3" style="background-image: url('<?php echo site_url("assets/images/home_p3.jpg") ?>'); background-size: cover;">
+                    <div class="project-grid-box-touch" pid="3" style="background-image: url('<?php echo site_url("assets/home-project-hero/home_precious_heritage.jpg"); ?>'); background-size: cover;">
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Heritage</h4>
                         </div>

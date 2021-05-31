@@ -14,7 +14,7 @@
                     <div class="swiper-slidex container-fluid" style="border: 3px solid #008DD2; border-radius: 10px;">
                         <div class="row">
                             <div class="img-container col-lg-7 col-md-12 col-sm-12" style="padding:0; overflow: hidden;">
-                                <img src="<?php echo site_url("assets/images/ph_hero.jpeg"); ?>" class="project-image" style="width: 180%;">
+                                <img src="<?php echo site_url("assets/images/project_featured/vj_pinkcity.jpg"); ?>" class="project-image" style="width: 180%;">
                             </div>
                             <div class="img-container col-lg-5 col-md-12 col-sm-12" style="padding:0; background-color: white;">
                                 <p class="internal-external-amenities-title text-center" style="font-size: 25px; margin-top: 2em; font-weight: 400;">Internal and External Amenities</p>
