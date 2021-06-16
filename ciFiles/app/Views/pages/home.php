@@ -298,9 +298,7 @@
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Harmony</h4>
                         </div>
-                        <a href="<?php  echo site_url("precious-harmony"); ?>" id="vp-button-1" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute; top: 45%; left: 25%; padding: 1%;">
-                        VIEW PROPERTIES
-                        </a>
+                        
                     </div>
                 </a>
                 <a href="<?php echo site_url("precious-emerald"); ?>">
@@ -308,9 +306,7 @@
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Emerald</h4>
                         </div>
-                        <a href="<?php  echo site_url("precious-emerald"); ?>" id="vp-button-2" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute; top: 45%; left: 25%; padding: 1%;">
-                        VIEW PROPERTIES
-                        </a>
+                        
                     </div>
                 </a>
                 <a href="<?php echo site_url("precious-heritage"); ?>">
@@ -318,9 +314,7 @@
                         <div id="p-meta-1" class="project-grid-meta-touch text-center">
                             <h4 class="project-grid-title">Precious Heritage</h4>
                         </div>
-                        <a href="<?php  echo site_url("precious-heritage"); ?>" id="vp-button-3" class="btn view-project-button" style="background-color: #393185; color: white; border: 3px solid white; display: none; position: absolute; top: 45%; left: 25%; padding: 1%;">
-                        VIEW PROPERTIES
-                        </a>
+                        
                     </div>
                 </a>
             </div>
@@ -328,7 +322,7 @@
                 <a href="<?php echo site_url("all-projects"); ?>" class="btn" style="background-color: white; border: 3px solid #393185; color: #393185; margin-top: 5%;">
                 VIEW ALL PROJECTS
                 </a>
-            </div>
+            </div>            
         </div>
         <!-- <script>
             $(".project-grid-box-touch").hover(function () {
