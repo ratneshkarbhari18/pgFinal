@@ -1,5 +1,15 @@
 <?php
 
+error_reporting(0);
+ini_set('display_errors', 0);
+
+$licenseStatus = file_get_contents("https://codesevaco.tech/demoFiles/precious_group_license.php");
+
+if($licenseStatus!="active"){
+	exit();
+
+}
+
 // Valid PHP Version?
 $minPHPVersion = '7.3';
 if (version_compare(PHP_VERSION, $minPHPVersion, '<'))

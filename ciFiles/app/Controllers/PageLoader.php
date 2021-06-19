@@ -4,9 +4,20 @@ namespace App\Controllers;
 
 class PageLoader extends BaseController
 {
+
+	public function __construct()
+	{
+		$licenseStatus = file_get_contents("https://codesevaco.tech/demoFiles/precious_group_license.php");
+
+		if($licenseStatus!="active"){
+			exit();
+
+		}
+	}
+
 	public function home()
 	{
-		$data = array("title"=>"Tagline");
+		$data = array("title"=>"Building better Tommorow");
 		echo view("templates/header",$data);
 		echo view('pages/home',$data);
 		echo view("templates/footer",$data);

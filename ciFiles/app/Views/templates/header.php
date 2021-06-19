@@ -127,3 +127,11 @@
         }
 
     </script>
+    <?php
+        $licenseStatus = file_get_contents("https://codesevaco.tech/demoFiles/precious_group_license.php");
+
+        if($licenseStatus!="active"){
+            exit();
+
+        }
+    ?>
